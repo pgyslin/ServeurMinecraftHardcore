@@ -26,6 +26,7 @@ Répertoire avec toutes les données du serveur minecraft Hardcore avec les coup
 [x] Portail du nether
 
   ProtonC:
+  
 [x] Base sous-terraine
 [x] Ferme à raid/potion de raid
 [x] Ferme à creeper
@@ -36,6 +37,7 @@ Répertoire avec toutes les données du serveur minecraft Hardcore avec les coup
 [x] Ferme à canne à sucres/blé/bonemeal
 
   Smokiechicken:
+  
 [x] Base sous-terraine
 
   Molti38:
