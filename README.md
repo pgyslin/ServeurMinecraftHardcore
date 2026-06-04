@@ -21,66 +21,66 @@ Répertoire avec toutes les données du serveur minecraft Hardcore avec les coup
 
   ColonialFox :
   
-[x] Île Volante
+- [x] Île Volante
 
-[x] Statue d'ange
+- [x] Statue d'ange
 
-[x] Portail du nether
+- [x] Portail du nether
 
   ProtonC:
   
-[x] Base sous-terraine
+- [x] Base sous-terraine
 
-[x] Ferme à raid/potion de raid
+- [x] Ferme à raid/potion de raid
 
-[x] Ferme à creeper
+- [x] Ferme à creeper
 
-[x] Ferme à bois?
+- [x] Ferme à bois?
 
-[x] Rénovation des chaînes de l'île
+- [x] Rénovation des chaînes de l'île
 
-[x] Fontaine
+- [x] Fontaine
 
-[x] Ferme à vache/moutons
+- [x] Ferme à vache/moutons
 
-[x] Ferme à canne à sucres/blé/bonemeal
+- [x] Ferme à canne à sucres/blé/bonemeal
 
   Smokiechicken:
   
-[x] Base sous-terraine
+- [x] Base sous-terraine
 
   Molti38:
   
-[x] Belle base
+- [x] Belle base
     
 ### À Réalisés:
 
 
-[ ] Entrepots + Tris auto
+- [ ] Entrepots + Tris auto
 
-[ ] Potions auto
+- [ ] Potions auto
 
-[ ] Ferme à enderman
+- [ ] Ferme à enderman
 
-[ ] Ferme à mobs
+- [ ] Ferme à mobs
 
-[ ] Ferme à pigman
+- [ ] Ferme à pigman
 
-[ ] Ferme à slimes
+- [ ] Ferme à slimes
 
-[ ] Tuer le wither
+- [ ] Tuer le wither
 
-[ ] Faire un full beacon
+- [ ] Faire un full beacon
 
-[ ] Faire un parc ou un musée
+- [ ] Faire un parc ou un musée
 
-[ ] Faire une ferme à fer
+- [ ] Faire une ferme à fer
 
-[ ] Faire une ferme à bois
+- [ ] Faire une ferme à bois
 
-[ ] Faire un arbre géant (type: yggdrasil)
+- [ ] Faire un arbre géant (type: yggdrasil)
 
-[ ] Faire une statue de tous les joueurs qui sont présents sur le serveur
+- [ ] Faire une statue de tous les joueurs qui sont présents sur le serveur
 
 
 
