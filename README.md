@@ -74,6 +74,13 @@ Répertoire avec toutes les données du serveur minecraft Hardcore avec les coup
 
 [ ] Faire une ferme à fer
 
+[ ] Faire une ferme à bois
+
+[ ] Faire un arbre géant (type: yggdrasil)
+
+[ ] Faire une statue de tous les joueurs qui sont présents sur le serveur
+
+
 
 
 
