@@ -18,12 +18,14 @@ Répertoire avec toutes les données du serveur minecraft Hardcore avec les coup
 ## Les projets :
 
 ### Réalisés:
-    ColonialFox :
+
+  ColonialFox :
+  
 [x] Île Volante
 [x] Statue d'ange
 [x] Portail du nether
 
-    ProtonC:
+  ProtonC:
 [x] Base sous-terraine
 [x] Ferme à raid/potion de raid
 [x] Ferme à creeper
@@ -33,10 +35,11 @@ Répertoire avec toutes les données du serveur minecraft Hardcore avec les coup
 [x] Ferme à vache/moutons
 [x] Ferme à canne à sucres/blé/bonemeal
 
-    Smokiechicken:
+  Smokiechicken:
 [x] Base sous-terraine
 
-    Molti38
+  Molti38:
+  
 [x] Belle base
     
 ### À Réalisés:
