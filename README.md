@@ -66,6 +66,8 @@ Répertoire avec toutes les données du serveur minecraft Hardcore avec les coup
 
 [ ] Ferme à pigman
 
+[ ] Ferme à slimes
+
 [ ] Tuer le wither
 
 [ ] Faire un full beacon
